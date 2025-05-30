@@ -7,7 +7,7 @@ AI foundation models have demonstrated some capabilities for the understanding o
 
 ## Workflow
 
-![title](Framework.png)
+![title](GeoFMTopo-Framework)
 
 ## Reference
 If you find our code or ideas useful for your research, please cite our paper:
