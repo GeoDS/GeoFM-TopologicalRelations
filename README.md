@@ -9,6 +9,25 @@ AI foundation models have demonstrated some capabilities for the understanding o
 
 ![title](Framework.png)
 
+## Reference
+If you find our code or ideas useful for your research, please cite our paper:
+
+*Ji, Y., Gao, S., Nie, Y., Majić, I., & Janowicz, K. (2025). [Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations](https://arxiv.org/pdf/2505.17136). International Journal of Geographical Information Science, 39 (X), 1-33.*
+
+```
+@article{ji2025foundation,
+  title={Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations},
+  author={Ji, Yuhan and Gao, Song and Nie, Ying and Maji{\'c}, Ivan and Janowicz, Krzysztof},
+  journal={International Journal of Geographical Information Science},
+  volume={39},
+  number={x},
+  pages={1--33},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
+```
+
+
 ## Code usage
 
 ### Table of Contents
