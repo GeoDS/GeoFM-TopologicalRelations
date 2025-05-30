@@ -1,15 +1,6 @@
 # Foundation Models for Geospatial Reasoning
 ## Assessing Capabilities of LLMs in Understanding Geometries and Topological Spatial Relations
 
-
-## Abstract
-
-AI foundation models have demonstrated some capabilities for the understanding of geospatial semantics. However, applying such pre-trained models directly to geospatial datasets remains challenging due to their limited ability to represent and reason with geographical entities, specifically spatial footprints (vector geometries) and natural language descriptions of potentially complex spatial relations. To address these issues, we investigate the extent to which a well-known-text (WKT) representation of geometries and their spatial relations (e.g., topological predicates) are preserved during spatial reasoning when the geospatial vector data are passed to large language models (LLMs) including GPT-3.5, GPT-4 and DeepSeek-R1. Our workflow employs three distinct approaches to complete the spatial reasoning tasks for comparison, i.e., geometry embedding-based, prompt-based, and vernacular description-based evaluation. Our experiment results demonstrate that both the embedding-based and prompt engineering-based approaches to the question-answering task with the GPT models can achieve an accuracy of over 0.61 for the identification of spatial relationships between geometries on average. Among the evaluated models, GPT-4 achieved the highest performance on topological spatial relation inference. Additionally, the GPT reasoner is capable of properly comprehending inverse spatial relations for geographic object retrieval. Moreover, ChatGPT exhibits the ability to translate certain vernacular descriptions into formal spatial relationships, and adding the geometry-type context in prompts can improve the inference accuracy. The performance of these spatial reasoning tasks unveils the strengths and limitations of the current LLMs in the processing and comprehension of geospatial vector data and offers valuable insights for the refinement of LLMs with geographical knowledge towards the development of geo-foundation models capable of spatial reasoning.
-
-## Workflow
-
-![title](Framework.png)
-
 ## Code usage
 
 ### Table of Contents
