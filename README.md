@@ -18,7 +18,7 @@ If you find our code or ideas useful for your research, please cite our paper:
 ```
 @article{ji2025foundation,
   title={Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations},
-  author={Ji, Yuhan and Gao, Song and Nie, Ying and Majić, Ivan and Janowicz, Krzysztof},
+  author={Ji, Yuhan and Gao, Song and Nie, Ying and Majic, Ivan and Janowicz, Krzysztof},
   journal={International Journal of Geographical Information Science},
   volume={39},
   number={x},
